@@ -1,0 +1,45 @@
+# Binaries
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build output
+/le-server
+*.out
+
+# Go workspace
+go.work
+go.work.sum
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Uploads
+uploads/
+!uploads/.gitkeep
+
+# Logs
+*.log
+get_sms_log
+
+# Temp files
+tmp/
+temp/
+*.tmp
+aabbcc.txt
