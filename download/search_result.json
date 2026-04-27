@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=2iRKKerjB7o",
+    "name": "Github tuto 1-git clone : Cloner et exécuter un projet Django depuis",
+    "snippet": "Openescuela Django repository : https://github.com/openescuela/opsadjangoblog Openescuela website : https://www.openescuela.com/ #github ...",
+    "host_name": "www.youtube.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/TreasureLZ/Django_Collection",
+    "name": "GitHub - TreasureLZ/Django_Collection: Django 项目合集",
+    "snippet": "前言 Hello，我是李临波！ 在这里，我将为您分享流行技术实现Django 项目（不限于爬虫、数据清洗分析、数据可视化等）及相关技术的讲解。 如需帮助，可通过后面联系方式添加作者。 可远程协助启动Python项目，寻找Django源码，代码定制等。",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.csdn.net/m0_59162248/article/details/131662106",
+    "name": "六个优质开源项目，让你更了解Django框架开发_django项目-CSDN博客",
+    "snippet": "它最初是被用来开发 CMS 软件的，所以 Django 很适合用来搭建内容类网站，它的设计目的是使常见的 Web 开发任务变得快速而简单。 今天 Gitee 就为大家整理了六个优质开源项目，它们均使用 Django 开发，希望大家能从这些项目中有所收获。 _django项目",
+    "host_name": "blog.csdn.net",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.csdn.net/m0_46388260/article/details/131613540",
+    "name": "Django项目-100套Python毕业设计的项目实战 (附源码+论文+演示视频)_d",
+    "snippet": "分享超过100个基于Python和Django的毕业设计项目，涵盖多种实战主题，包括身份认证、漏洞挖掘、管理系统等。 每个项目提供源码、功能介绍和视频演示，还支持论文参考和定制服务。",
+    "host_name": "blog.csdn.net",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/ldsxp/django-apps",
+    "name": "GitHub - ldsxp/django-apps: 精选的 Django 应用程序、项目和资源",
+    "snippet": "精选的 Django 应用程序、项目和资源. Contribute to ldsxp/django-apps development by creating an account on GitHub.",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.csdn.net/m0_53162439/article/details/125345053",
+    "name": "github项目自荐（django项目）_如何找giyhub上的django项目-CSDN博客",
+    "snippet": "本文介绍了一个使用Django构建的前端与后端分离的项目，旨在提供专业分析和前景预测。 项目尚处于初期阶段，持续迭代中。 主要涉及Django框架的运行步骤，包括从GitHub获取项目、运行Django服务器、修改axios请求URL以及利用VSCode的LiveServer运行前端页面。",
+    "host_name": "blog.csdn.net",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.pingcode.com/ask/ask-ask/277394.html",
+    "name": "GitHub 上有哪些值得关注的 Django 项目 – PingCode",
+    "snippet": "DjangoGirls Tutorial：这是一个非常受欢迎的 Django 入门教程，适合初学者学习 Django 框架的基本概念和开发流程。 教程质量很高，而且有很多实用的示例和练习。 Awesome Django：这是一个收集了很多优秀 Django 资源的项目，包括教程、书籍、视频等。",
+    "host_name": "docs.pingcode.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://zhuanlan.zhihu.com/p/142232197",
+    "name": "六个优质开源项目，让你更了解Django框架开发 - 知乎",
+    "snippet": "Django 是一个开源的 Web 应用框架，由 Python 写成。 采用了 MTV 的框架模式，即模型 M，视图 V 和模版 T。 它最初是被用来开发 CMS 软件的，所以 Django 很适合用来搭建内容类网站，它的设计目的是使常见的 Web 开发任务变得快速而简单。",
+    "host_name": "zhuanlan.zhihu.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  }
+]
