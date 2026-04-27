@@ -1,0 +1,32 @@
+server:
+  port: 8080
+  mode: debug  # debug / release / test
+
+mysql:
+  host: 127.0.0.1
+  port: 3306
+  user: root
+  password: lehuiso826
+  dbname: le_app
+  charset: utf8mb4
+  max_idle_conns: 10
+  max_open_conns: 100
+
+redis:
+  host: 127.0.0.1
+  port: 6379
+  password: ""
+  db: 0
+
+jwt:
+  secret: le-go-jwt-secret-key-2024-change-in-production
+  expire_hours: 168  # 7 days
+
+upload:
+  path: ./uploads
+  max_size: 10  # MB
+  static_url: https://static.lehuiso.com/
+
+sms:
+  username: lhswang
+  password: 152668
